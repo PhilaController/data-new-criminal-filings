@@ -1,5 +1,4 @@
 name: Daily Data Update
-
 on:
   schedule:
     - cron: 50 3 * * *
@@ -7,7 +6,6 @@ on:
   push:
     paths:
       - .github/workflows/daily-update.yml
-
 jobs:
   scheduled:
     runs-on: ubuntu-latest
