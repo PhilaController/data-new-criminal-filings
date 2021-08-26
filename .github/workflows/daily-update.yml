@@ -1,0 +1,36 @@
+name: Daily Data Update
+on:
+  schedule:
+    - cron: 50 3 * * *
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/daily-update.yml
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - uses: conda-incubator/setup-miniconda@v2
+        with:
+          auto-update-conda: true
+          python-version: 3.7
+      - name: Download files
+        shell: bash -l {0}
+        run: |
+          pip install -r requirements.txt
+          python scripts/process.py
+      - name: Commit files
+        continue-on-error: true
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "Add daily download changes"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
