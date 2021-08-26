@@ -85,8 +85,10 @@ if __name__ == "__main__":
         ignore_index=True,
     ).replace("None", np.nan)
 
-    # Save raw data
-    data.to_csv(DATA_DIR / "raw" / "latest-data.csv", index=False)
+    # Save sorted raw data
+    data.sort_values(["Filing Date", "Docket Number"]).to_csv(
+        DATA_DIR / "raw" / "latest-data.csv", index=False
+    )
     logger.info(f"Successfully scraped data for {len(data)} criminal filings")
 
     # Save combined database
@@ -99,4 +101,4 @@ if __name__ == "__main__":
 
     # Remove duplicates and save
     data = data.drop_duplicates()
-    data.to_csv(filename, index=False)
+    data.sort_values(["Filing Date", "Docket Number"]).to_csv(filename, index=False)
