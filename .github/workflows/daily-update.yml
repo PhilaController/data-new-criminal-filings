@@ -7,8 +7,7 @@ on:
   push:
     paths:
       - .github/workflows/daily-update.yml
-j
-obs:
+jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
