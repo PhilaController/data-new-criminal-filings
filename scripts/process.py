@@ -52,7 +52,7 @@ def parse_single_page(url):
                 if "strong" in s:
                     keys.append(x.text.strip(":"))
                 # Skip any line breaks
-                elif "br" in s:
+                elif "<br/>" in s:
                     continue
                 else:
                     # If we have text, its the value
