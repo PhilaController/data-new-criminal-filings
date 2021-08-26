@@ -1,5 +1,4 @@
 name: Daily Data Update
-
 on:
   schedule:
     - cron: 50 3 * * *
