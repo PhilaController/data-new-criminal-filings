@@ -1,5 +1,6 @@
 from datetime import date
 from pathlib import Path
+from sys import exit
 
 import numpy as np
 import pandas as pd
@@ -77,13 +78,17 @@ if __name__ == "__main__":
     allowed_dates = [str(today - pd.Timedelta(i, "D")) for i in range(8)]
 
     # Get data from all pages for all dates
-    data = pd.concat(
-        map(
-            lambda date: pd.concat(map(parse_single_page, get_all_pages(date))),
-            allowed_dates,
-        ),
-        ignore_index=True,
-    ).replace("None", np.nan)
+    try:
+        data = pd.concat(
+            map(
+                lambda date: pd.concat(map(parse_single_page, get_all_pages(date))),
+                allowed_dates,
+            ),
+            ignore_index=True,
+        ).replace("None", np.nan)
+    except Exception as e:
+        logger.exception(f"Error parsing data: {str(e)}")
+        exit(1)
 
     # Save sorted raw data
     data.sort_values(["Filing Date", "Docket Number"]).to_csv(
