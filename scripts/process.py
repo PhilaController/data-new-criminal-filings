@@ -1,4 +1,3 @@
-from datetime import date
 from pathlib import Path
 from sys import exit
 
@@ -11,6 +10,18 @@ from loguru import logger
 URL = "https://www.courts.phila.gov/NewCriminalFilings/date/default.aspx"
 CWD = Path(__file__).resolve().parent
 DATA_DIR = CWD / ".." / "data"
+SORT_COLUMNS = ["Filing Date", "Docket Number", "Defendant Name"]
+
+
+def get_all_dates():
+    """Extract the dates from the dropdown."""
+
+    # Parse
+    r = requests.get(URL)
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    # Parse the option selects, skipping the first one (placeholder text)
+    return list(map(lambda x: x.text, soup.select("select option")[1:]))
 
 
 def get_all_pages(date):
@@ -74,8 +85,7 @@ def parse_single_page(url):
 if __name__ == "__main__":
 
     # Determine the allowed date range, e.g., the last week
-    today = date.today()
-    allowed_dates = [str(today - pd.Timedelta(i, "D")) for i in range(8)]
+    allowed_dates = get_all_dates()
 
     # Get data from all pages for all dates
     try:
@@ -91,7 +101,7 @@ if __name__ == "__main__":
         exit(1)
 
     # Save sorted raw data
-    data.sort_values(["Filing Date", "Docket Number"]).to_csv(
+    data.sort_values(SORT_COLUMNS).to_csv(
         DATA_DIR / "raw" / "latest-data.csv", index=False
     )
     logger.info(f"Successfully scraped data for {len(data)} criminal filings")
@@ -104,6 +114,11 @@ if __name__ == "__main__":
     if filename.exists():
         data = pd.concat([data, pd.read_csv(filename)])
 
+    # Convert all data to strings to ensure duplicates are found
+    data = data.astype(str)
+
     # Remove duplicates and save
+    original_length = len(data)
     data = data.drop_duplicates()
-    data.sort_values(["Filing Date", "Docket Number"]).to_csv(filename, index=False)
+    logger.info(f"Removed {original_length - len(data)} duplicate filings")
+    data.sort_values(SORT_COLUMNS).to_csv(filename, index=False)
