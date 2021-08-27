@@ -107,7 +107,7 @@ if __name__ == "__main__":
     logger.info(f"Successfully scraped data for {len(data)} criminal filings")
 
     # Save combined database
-    path = DATA_DIR / "processed" / "daily-data-combined.csv"
+    path = DATA_DIR / "processed" / "daily-data-historical.csv"
     filename = Path(path)
 
     # Merge together
