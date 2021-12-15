@@ -237,7 +237,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022339-2021," 12/10/2021 2:20:00 AM
                 "," Fraud Document - Insurance Rate Determ
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/10/2021 3:21:06 AM, ROR, $0.00," $0.00
+                Doherty, Patrick Thomas",	Posted, 12/10/2021 3:21:06 AM, ROR, $0.00," $0.00
                             
                        
                         "
@@ -849,8 +849,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022392-2021," 12/11/2021 1:08:00 AM
                 "," Murder
                 "," 
-                
-				None",	Denied, 12/11/2021 2:10:08 AM, $0.00," $0.00
+                Server, Gary Sanford",	Denied, 12/11/2021 2:10:08 AM, $0.00," $0.00
                             
                        
                         ",
@@ -1548,7 +1547,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022471-2021," 12/12/2021 12:14:00 PM
                 "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/12/2021 1:15:04 PM, ROR, $0.00," $0.00
+                Capek, Justin Charles",	Posted, 12/12/2021 1:15:04 PM, ROR, $0.00," $0.00
                             
                        
                         "
@@ -1670,8 +1669,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022451-2021," 12/12/2021 12:47:00 AM
                 "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
                 "," 
-                
-				None",	Set, 12/12/2021 1:50:12 AM, Monetary," $750,000.00"," $0.00
+                Tinari, Eugene P.",	Set, 12/12/2021 1:50:12 AM, Monetary," $750,000.00"," $0.00
                             
                        
                         "
@@ -2314,6 +2312,44 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                             
                        
                         "
+" Austin, Isaiah
+                     "," 25
+                     ","
+						 Philadelphia, PA 19153
+                         
+                ",MC-51-CR-0022523-2021," 12/13/2021 4:25:00 PM
+                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
+                "," 
+                
+				None",	Posted, 12/13/2021 5:25:06 PM, Monetary," $20,000.00"," ($2,000.00)
+                            
+                       
+                        "
+" Murray, Rommel
+                     "," 39
+                     ","
+						 Philadelphia, PA 19120
+                         
+                ",MC-51-CR-0022524-2021," 12/13/2021 4:31:00 PM
+                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
+                "," 
+                Defender Association of Philadelphia",	Set, 12/13/2021 5:35:07 PM, Monetary," $25,000.00"," $0.00
+                            
+                       
+                        "
+" Smalls, Michael
+                     "," 31
+                     ","
+						 Philadelphia, PA 19120
+                         
+                ",MC-51-CR-0022525-2021," 12/13/2021 4:38:00 PM
+                "," Simple Assault
+                "," 
+                
+				None",	Set, 12/13/2021 5:40:06 PM, Monetary," $35,000.00"," $0.00
+                            
+                       
+                        "
 " Stevenson, Willie
                      "," 32
                      ","
@@ -2326,6 +2362,31 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                             
                        
                         "
+" Furman, Zaire
+                     "," 22
+                     ","
+						 Philadelphia, PA 19120
+                         
+                ",MC-51-CR-0022526-2021," 12/13/2021 4:43:00 PM
+                "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
+                "," 
+                Defender Association of Philadelphia",	Set, 12/13/2021 5:50:06 PM, Monetary," $50,000.00"," $0.00
+                            
+                       
+                        "
+" Rinick, Jude W.
+                     "," 20
+                     ","
+						 Philadelphia, PA 00191
+                         
+                ",MC-51-CR-0022527-2021," 12/13/2021 4:47:00 PM
+                "," Strangulation - Applying Pressure to Throat or Neck
+                "," 
+                
+				None",	Posted, 12/13/2021 5:50:07 PM, Monetary," $30,000.00"," ($3,000.00)
+                            
+                       
+                        "
 " Chappell, Theodore
                      "," 33
                      ","
@@ -2334,7 +2395,33 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022509-2021," 12/13/2021 4:49:00 AM
                 "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
                 "," 
-                Defender Association of Philadelphia",	Set, 12/13/2021 5:50:03 AM, Monetary," $25,000.00"," $0.00
+                Defender Association of Philadelphia",	Posted, 12/13/2021 5:50:03 AM, Monetary," $25,000.00"," ($2,500.00)
+                            
+                       
+                        "
+" Rivera, Abner
+                     "," 41
+                     ","
+						 Philadelphia, PA 19134
+                         
+                ",MC-51-CR-0022532-2021," 12/13/2021 4:54:00 PM
+                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
+                "," 
+                
+				None",	Posted, 12/13/2021 5:55:04 PM, Monetary," $25,000.00"," ($2,500.00)
+                            
+                       
+                        "
+" Rivera, Abner
+                     "," 41
+                     ","
+						 Philadelphia, PA 19134
+                         
+                ",MC-51-CR-0022533-2021," 12/13/2021 4:54:00 PM
+                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
+                "," 
+                
+				None",	Posted, 12/13/2021 5:55:06 PM, Monetary," $25,000.00"," ($2,500.00)
                             
                        
                         "
@@ -2359,6 +2446,118 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
                 "," 
                 Defender Association of Philadelphia",	Set, 12/13/2021 6:00:05 AM, Monetary," $25,000.00"," $0.00
+                            
+                       
+                        "
+" Rodriguez, Juan
+                     "," 44
+                     ","
+						 Philadelphia, PA 19133
+                         
+                ",MC-51-CR-0022528-2021," 12/13/2021 4:59:00 PM
+                "," Contempt For Violation of Order or Agreement
+                "," 
+                Defender Association of Philadelphia",	Set, 12/13/2021 6:00:05 PM, Monetary," $12,500.00"," $0.00
+                            
+                       
+                        "
+" Rodriguez, Juan
+                     "," 44
+                     ","
+						 Philadelphia, PA 19133
+                         
+                ",MC-51-CR-0022529-2021," 12/13/2021 4:59:00 PM
+                "," Contempt For Violation of Order or Agreement
+                "," 
+                Defender Association of Philadelphia",	Set, 12/13/2021 6:00:06 PM, Monetary," $12,500.00"," $0.00
+                            
+                       
+                        "
+" Mansfield, Adam J.
+                     "," 41
+                     ","
+						 Philadelphia, PA 19134
+                         
+                ",MC-51-CR-0022530-2021," 12/13/2021 5:08:00 PM
+                "," Contempt For Violation of Order or Agreement
+                "," 
+                
+				None",	Set, 12/13/2021 6:10:05 PM, Monetary," $20,000.00"," $0.00
+                            
+                       
+                        "
+" Thomas, Raquan
+                     "," 25
+                     ","
+						 Ambler, PA 19002
+                         
+                ",MC-51-CR-0022531-2021," 12/13/2021 5:15:00 PM
+                "," Contempt For Violation of Order or Agreement
+                "," 
+                
+				None",	Posted, 12/13/2021 6:20:05 PM, Monetary," $75,000.00"," ($7,500.00)
+                            
+                       
+                        "
+" McGaw, Kelly
+                     "," 52
+                     ","
+						 Yeadon, PA 19050
+                         
+                ",MC-51-CR-0022534-2021," 12/13/2021 5:17:00 PM
+                "," Arrest Prior To Requisition
+                "," 
+                Defender Association of Philadelphia",	Set, 12/13/2021 6:20:06 PM, Monetary," $10,000.00"," $0.00
+                            
+                       
+                        "
+" Giddings, Taneisha
+                     "," 33
+                     ","
+						 Philadelphia, PA 19143
+                         
+                ",MC-51-CR-0022535-2021," 12/13/2021 5:20:00 PM
+                "," Criminal Mischief
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/13/2021 6:20:09 PM, Unsecured," $25,000.00"," $0.00
+                            
+                       
+                        "
+" Greene, Darnell
+                     "," 55
+                     ","
+						 Philadelphia, PA 19136
+                         
+                ",MC-51-CR-0022536-2021," 12/13/2021 7:47:00 PM
+                "," Contempt For Violation of Order or Agreement
+                "," 
+                
+				None",	Posted, 12/13/2021 8:50:05 PM, Unsecured," $30,000.00"," $0.00
+                            
+                       
+                        "
+" Doe, Jane
+                     "," 22
+                     ","
+						 Philadelphia, PA 19124
+                         
+                ",MC-51-CR-0022537-2021," 12/13/2021 7:50:00 PM
+                "," DUI: Gen Imp/Inc of Driving Safely - 1st Off
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/13/2021 8:50:07 PM, ROR, $0.00," $0.00
+                            
+                       
+                        "
+" Stanish, Joseph A.
+                     "," 59
+                     ","
+						 Philadelphia, PA 19147
+                         
+                ",MC-51-CR-0022538-2021," 12/13/2021 7:54:00 PM
+                "," Ethnic Intimidation
+                "," 
+                
+				None",	Posted, 12/13/2021 8:55:05 PM, Unsecured," $25,000.00"," $0.00
                             
                        
                         "
@@ -2410,531 +2609,317 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                             
                        
                         "
-" Torres, Carmen
-                     "," 50
+" Gordon, Peter
+                     "," 55
                      ","
-						 Philadelphia, PA 19100
+						 Philadelphia, PA 19132
                          
-                ",MC-51-CR-0022136-2021," 12/6/2021 10:03:00 PM
-                "," Burglary - Overnight Accommodations; Person Present, Bodily Injury Crime
+                ",MC-51-CR-0022557-2021," 12/14/2021 10:37:00 AM
+                "," Strangulation - Applying Pressure to Throat or Neck
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 11:06:07 PM, Unsecured," $75,000.00"," $0.00
+                Defender Association of Philadelphia",	Posted, 12/14/2021 11:40:06 AM, Unsecured," $75,000.00"," $0.00
                             
                        
                         "
-" Bennett, Eric E.
+" Green, Rafael
                      "," 51
-                     ","
-						 Philadelphia, PA 19132
-                         
-                ",MC-51-CR-0022129-2021," 12/6/2021 10:09:00 PM
-                "," Receiving Stolen Property
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 11:11:07 PM, Monetary," $20,000.00"," ($2,000.00)
-                            
-                       
-                        "
-" Woods, Careem
-                     "," 38
-                     ","
-						 Philadelphia, PA 19120
-                         
-                ",MC-51-CR-0022104-2021," 12/6/2021 11:44:00 AM
-                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
-                "," 
-                Kelly, Joseph Kevin",	Set, 12/10/2021 9:05:00 AM, Monetary, $300.00," $0.00
-                            
-                       
-                        "
-" Abdelrazek, Ashraf
-                     "," 33
-                     ","
-						 Philadelphia, PA 19115
-                         
-                ",MC-51-CR-0022105-2021," 12/6/2021 11:47:00 AM
-                "," Simple Assault
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 12:55:07 PM, Unsecured," $100,000.00"," $0.00
-                            
-                       
-                        "
-" Powell, Quaheed
-                     "," 18
-                     ","
-						 Philadelphia, PA 19135
-                         
-                ",MC-51-CR-0022106-2021," 12/6/2021 11:49:00 AM
-                "," Receiving Stolen Property
-                "," 
-                Chisholm, Walter C.",	Posted, 12/6/2021 12:55:10 PM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Drew, Makah
-                     "," 18
-                     ","
-						 Philadelphia, PA 19131
-                         
-                ",MC-51-CR-0022107-2021," 12/6/2021 11:51:00 AM
-                "," Receiving Stolen Property
-                "," 
-                Wolf, Bruce",	Posted, 12/6/2021 12:55:13 PM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Williams, Ashley F.
-                     "," 36
-                     ","
-						 Philadelphia, PA 19131
-                         
-                ",MC-51-CR-0022088-2021," 12/6/2021 2:42:00 AM
-                "," Crim Tres-Break Into Structure
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 3:46:05 AM, Unsecured," $15,000.00"," $0.00
-                            
-                       
-                        "
-" Lewis, Robert
-                     "," 30
-                     ","
-						 Slatington, PA 18080
-                         
-                ",MC-51-CR-0022127-2021," 12/6/2021 4:52:00 PM
-                "," Simple Assault
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 5:56:06 PM, Unsecured," $25,000.00"," $0.00
-                            
-                       
-                        "
-" Dunn, Raymond A.
-                     "," 48
-                     ","
-						 Marcus Hook, PA 19061
-                         
-                ",MC-51-CR-0022126-2021," 12/6/2021 5:00:00 PM
-                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 6:01:05 PM, Monetary," $15,000.00"," ($1,500.00)
-                            
-                       
-                        "
-" Vadis, Ramon Luis
-                     "," 62
-                     ","
-						 Philadelphia, PA 19140
-                         
-                ",MC-51-CR-0022124-2021," 12/6/2021 5:10:00 PM
-                "," Contempt For Violation of Order or Agreement
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 6:11:03 PM, Monetary," $15,000.00"," ($1,500.00)
-                            
-                       
-                        "
-" Filberty, Brian
-                     "," 32
-                     ","
-						 Philadelphia, PA 19134
-                         
-                ",MC-51-CR-0022125-2021," 12/6/2021 5:19:00 PM
-                "," Impersonating A Public Servant
-                "," 
-                Johnson, Carl Reginald",	Posted, 12/6/2021 6:21:04 PM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Sutton, Victor E.
-                     "," 40
-                     ","
-						 Philadelphia, PA 19144
-                         
-                ",MC-51-CR-0022122-2021," 12/6/2021 5:27:00 PM
-                "," Firearms Not To Be Carried W/O License
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 6:31:04 PM, Monetary," $50,000.00"," ($5,000.00)
-                            
-                       
-                        "
-" Morris, Ashley
-                     "," 34
-                     ","
-						 Philadelphia, PA 
-                         
-                ",MC-51-CR-0022111-2021," 12/6/2021 5:44:00 PM
-                "," Poss Instrument Of Crime W/Int
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 6:46:04 PM, Monetary," $3,000.00"," $0.00
-                            
-                       
-                        "
-" Morris, Ashley
-                     "," 34
-                     ","
-						 Philadelphia, PA 
-                         
-                ",MC-51-CR-0022112-2021," 12/6/2021 5:44:00 PM
-                "," Poss Instrument Of Crime W/Int
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 6:46:06 PM, Monetary," $3,000.00"," $0.00
-                            
-                       
-                        "
-" Morris, Ashley
-                     "," 34
-                     ","
-						 Philadelphia, PA 
-                         
-                ",MC-51-CR-0022113-2021," 12/6/2021 5:44:00 PM
-                "," Criminal Mischief
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 6:46:07 PM, Monetary," $3,000.00"," $0.00
-                            
-                       
-                        "
-" Coleman-Redd, Isha
-                     "," 34
-                     ","
-						 Philadelphia, PA 19132
-                         
-                ",MC-51-CR-0022114-2021," 12/6/2021 5:54:00 PM
-                "," Contempt For Violation of Order or Agreement
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 6:56:03 PM, Unsecured," $75,000.00"," $0.00
-                            
-                       
-                        "
-" Hill, Heather D.
-                     "," 47
-                     ","
-						 Maple Shade, NJ 08052
-                         
-                ",MC-51-CR-0022115-2021," 12/6/2021 6:00:00 PM
-                "," Contempt For Violation of Order or Agreement
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 7:01:03 PM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Clinkscale, Dwayne K.
-                     "," 48
-                     ","
-						 Philadelphia, PA 19132
-                         
-                ",MC-51-CR-0022116-2021," 12/6/2021 6:07:00 PM
-                "," Rape Forcible Compulsion
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 7:11:04 PM, Monetary," $500,000.00"," $0.00
-                            
-                       
-                        "
-" Clinkscale, Dwayne K.
-                     "," 48
-                     ","
-						 Philadelphia, PA 19132
-                         
-                ",MC-51-CR-0022117-2021," 12/6/2021 6:07:00 PM
-                "," Failure to Comply With Registration of Sexual Offender Requirements
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 7:11:06 PM, Monetary," $250,000.00"," $0.00
-                            
-                       
-                        "
-" Maxwell, Marquise
-                     "," 25
-                     ","
-						 Philadelphia, PA 19134
-                         
-                ",MC-51-CR-0022119-2021," 12/6/2021 6:16:00 PM
-                "," Firearms Not To Be Carried W/O License
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/10/2021 9:24:00 AM, Unsecured," $25,000.00"," $0.00
-                            
-                       
-                        "
-" Rollins, Tyree
-                     "," 44
-                     ","
-						 Philadelphia, PA 19151
-                         
-                ",MC-51-CR-0022120-2021," 12/6/2021 6:22:00 PM
-                "," Firearms Not To Be Carried W/O License
-                "," 
-                McLaughlin, William Ryan",	Posted, 12/6/2021 7:26:03 PM, Monetary," $35,000.00"," ($3,500.00)
-                            
-                       
-                        "
-" Warren, Jawan
-                     "," 35
-                     ","
-						 Philadelphia, PA 19139
-                         
-                ",MC-51-CR-0022121-2021," 12/6/2021 6:28:00 PM
-                "," Possession Of Firearm Prohibited
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 7:31:04 PM, Monetary," $125,000.00"," $0.00
-                            
-                       
-                        "
-" Page, Frankie A.
-                     "," 20
-                     ","
-						 Philadelphia, PA 19134
-                         
-                ",MC-51-CR-0022090-2021," 12/6/2021 8:43:00 AM
-                "," Robbery-Inflict Serious Bodily Injury
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 9:45:21 AM, Monetary," $150,000.00"," $0.00
-                            
-                       
-                        "
-" Page, Frankie A.
-                     "," 20
-                     ","
-						 Philadelphia, PA 19134
-                         
-                ",MC-51-CR-0022091-2021," 12/6/2021 8:43:00 AM
-                "," Robbery-Inflict Serious Bodily Injury
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 9:45:13 AM, Monetary," $150,000.00"," $0.00
-                            
-                       
-                        "
-" Page, Frankie A.
-                     "," 20
-                     ","
-						 Philadelphia, PA 19134
-                         
-                ",MC-51-CR-0022092-2021," 12/6/2021 8:43:00 AM
-                "," Robbery-Inflict Serious Bodily Injury
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 9:45:15 AM, Monetary," $150,000.00"," $0.00
-                            
-                       
-                        "
-" Page, Frankie A.
-                     "," 20
-                     ","
-						 Philadelphia, PA 19134
-                         
-                ",MC-51-CR-0022093-2021," 12/6/2021 8:43:00 AM
-                "," Robbery-Inflict Serious Bodily Injury
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 9:45:09 AM, Monetary," $150,000.00"," $0.00
-                            
-                       
-                        "
-" Page, Frankie A.
-                     "," 20
-                     ","
-						 Philadelphia, PA 19134
-                         
-                ",MC-51-CR-0022094-2021," 12/6/2021 8:43:00 AM
-                "," Robbery-Inflict Serious Bodily Injury
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 9:45:11 AM, Monetary," $150,000.00"," $0.00
-                            
-                       
-                        "
-" Page, Frankie A.
-                     "," 20
-                     ","
-						 Philadelphia, PA 19134
-                         
-                ",MC-51-CR-0022095-2021," 12/6/2021 8:43:00 AM
-                "," Robbery-Inflict Serious Bodily Injury
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 9:45:18 AM, Monetary," $150,000.00"," $0.00
-                            
-                       
-                        "
-" Blair, Diamond
-                     "," 28
-                     ","
-						 Philadelphia, PA 19122
-                         
-                ",MC-51-CR-0022097-2021," 12/6/2021 8:48:00 AM
-                "," DUI: Gen Imp/Inc of Driving Safely - 1st Off
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 9:50:07 AM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Brown, Mahee N.
-                     "," 21
-                     ","
-						 Philadelphia, PA 19104
-                         
-                ",MC-51-CR-0022137-2021," 12/6/2021 8:48:00 PM
-                "," Receiving Stolen Property
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 9:51:05 PM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Lopez, Santiago
-                     "," 23
                      ","
 						 Philadelphia, PA 19149
                          
-                ",MC-51-CR-0022098-2021," 12/6/2021 8:50:00 AM
-                "," DUI: Gen Imp/Inc of Driving Safely - 1st Off
+                ",MC-51-CR-0022558-2021," 12/14/2021 10:44:00 AM
+                "," Simple Assault
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 9:55:06 AM, ROR, $0.00," $0.00
+                Defender Association of Philadelphia",	Posted, 12/14/2021 11:45:07 AM, Unsecured," $35,000.00"," $0.00
                             
                        
                         "
-" Kilkenny, Robert
-                     "," 32
+" Brownback, Michael
+                     "," 50
                      ","
-						 Philadelphia, PA 19152
+						 Philadelphia, PA 19143
                          
-                ",MC-51-CR-0022099-2021," 12/6/2021 8:54:00 AM
-                "," Receiving Stolen Property
+                ",MC-51-CR-0022562-2021," 12/14/2021 10:48:00 AM
+                "," Criminal Attempt - Theft By Unlaw Taking-Movable Prop
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 9:55:09 AM, Unsecured," $25,000.00"," $0.00
+                Defender Association of Philadelphia",	Posted, 12/14/2021 11:50:06 AM, Unsecured," $25,000.00"," $0.00
                             
                        
                         "
-" Hall, Henry
-                     "," 41
-                     ","
-						 Philadelphia, PA 19100
-                         
-                ",MC-51-CR-0022133-2021," 12/6/2021 8:57:00 PM
-                "," Theft By Unlaw Taking-Movable Prop
-                "," 
-                Yacoubian, George Setrag Jr.",	Posted, 12/6/2021 10:01:05 PM, Unsecured," $30,000.00"," $0.00
-                            
-                       
-                        "
-" Diciurcio, Cosmo
-                     "," 37
-                     ","
-						 Philadelphia, PA 19148
-                         
-                ",MC-51-CR-0022101-2021," 12/6/2021 8:59:00 AM
-                "," Int Poss Contr Subst By Per Not Reg
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 10:00:07 AM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Keopetoom, Jeff
-                     "," 36
-                     ","
-						 Philadelphia, PA 19120
-                         
-                ",MC-51-CR-0022102-2021," 12/6/2021 9:02:00 AM
-                "," Int Poss Contr Subst By Per Not Reg
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 10:05:09 AM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Albarran, Eduardo
-                     "," 26
-                     ","
-						 Philadelphia, PA 
-                         
-                ",MC-51-CR-0022134-2021," 12/6/2021 9:02:00 PM
-                "," Theft By Unlaw Taking-Movable Prop
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 10:11:08 PM, Unsecured," $15,000.00"," $0.00
-                            
-                       
-                        "
-" Dinunzio, Joseph
-                     "," 40
-                     ","
-						 Philadelphia, PA 19148
-                         
-                ",MC-51-CR-0022103-2021," 12/6/2021 9:04:00 AM
-                "," Int Poss Contr Subst By Per Not Reg
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 10:05:11 AM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Delgado, Jose
-                     "," 18
-                     ","
-						 Philadelphia, PA 19124
-                         
-                ",MC-51-CR-0022135-2021," 12/6/2021 9:04:00 PM
-                "," Fleeing or Attempting to Elude Officer
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 10:06:07 PM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Blasek, Patrick
-                     "," 26
-                     ","
-						 Norristown, PA 19403
-                         
-                ",MC-51-CR-0022100-2021," 12/6/2021 9:07:00 AM
-                "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
-                "," 
-                Levin, Andrew Joseph",	Posted, 12/6/2021 10:10:08 AM, Unsecured," $25,000.00"," $0.00
-                            
-                       
-                        "
-" Jacquet, Ronald C.
-                     "," 34
-                     ","
-						 Upper Darby, PA 19082
-                         
-                ",MC-51-CR-0022130-2021," 12/6/2021 9:09:00 PM
-                "," Make Repairs/Sell/Etc Offens Weap
-                "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 10:11:05 PM, Monetary," $40,000.00"," $0.00
-                            
-                       
-                        "
-" Macklin, Gary
-                     "," 23
+" Bickett, Reginald
+                     "," 39
                      ","
 						 Philadelphia, PA 19145
                          
-                ",MC-51-CR-0022131-2021," 12/6/2021 9:14:00 PM
-                "," Poss Instrument Of Crime W/Int
+                ",MC-51-CR-0022560-2021," 12/14/2021 10:55:00 AM
+                "," Possession Of Firearm Prohibited
                 "," 
-                Defender Association of Philadelphia",	Set, 12/6/2021 10:16:04 PM, Monetary," $60,000.00"," $0.00
+                
+				None",	Set, 12/14/2021 12:00:08 PM, Monetary," $100,000.00"," $0.00
                             
                        
                         "
-" Abdul-Ali, Anwar
-                     "," 22
+" Rostin, Michael
+                     "," 49
+                     ","
+						 Philadelphia, PA 
+                         
+                ",MC-51-CR-0022561-2021," 12/14/2021 11:01:00 AM
+                "," Forgery - Alter Writing
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 12:06:10 PM, ROR, $0.00," $0.00
+                            
+                       
+                        "
+" Vargas-Polanco, Carlos
+                     "," 46
+                     ","
+						 Philadelphia, PA 19148
+                         
+                ",MC-51-CR-0022559-2021," 12/14/2021 11:05:00 AM
+                "," Contempt For Violation of Order or Agreement
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 12:06:12 PM, Unsecured," $25,000.00"," $0.00
+                            
+                       
+                        "
+" Redguard, Rasheen
+                     "," 37
+                     ","
+						 Philadelphia, PA 19144
+                         
+                ",MC-51-CR-0022513-2021," 12/14/2021 12:40:00 AM
+                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
+                "," 
+                Defender Association of Philadelphia",	Set, 12/14/2021 1:45:09 AM, Monetary," $50,000.00"," $0.00
+                            
+                       
+                        "
+" Redguard, Rasheen
+                     "," 37
+                     ","
+						 Philadelphia, PA 19144
+                         
+                ",MC-51-CR-0022514-2021," 12/14/2021 12:40:00 AM
+                "," Receiving Stolen Property
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 1:45:10 AM, ROR, $0.00," $0.00
+                            
+                       
+                        "
+" Vocht, David
+                     "," 28
+                     ","
+						 Philadelphia, PA 19114
+                         
+                ",MC-51-CR-0022539-2021," 12/14/2021 12:49:00 AM
+                "," Criminal Attempt - Rape Forcible Compulsion
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 1:50:08 AM, Monetary," $35,000.00"," ($3,500.00)
+                            
+                       
+                        "
+" Thornton, Caprice
+                     "," 51
+                     ","
+						 Philadelphia, PA 
+                         
+                ",MC-51-CR-0022540-2021," 12/14/2021 12:55:00 AM
+                "," Poss Instrument Of Crime W/Int
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 2:00:07 AM, Unsecured," $15,000.00"," $0.00
+                            
+                       
+                        "
+" Thornton, Caprice
+                     "," 51
+                     ","
+						 Philadelphia, PA 
+                         
+                ",MC-51-CR-0022541-2021," 12/14/2021 12:55:00 AM
+                "," Poss Instrument Of Crime W/Int
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 2:00:09 AM, Unsecured," $15,000.00"," $0.00
+                            
+                       
+                        "
+" LAWRENCE, TYRA
+                     "," 19
+                     ","
+						 Philadelphia, PA 19144
+                         
+                ",MC-51-CR-0022542-2021," 12/14/2021 1:00:00 AM
+                "," Poss Instrument Of Crime W/Int
+                "," 
+                Nitti, Danielle G.",	Posted, 12/14/2021 2:05:09 AM, Unsecured," $5,000.00"," $0.00
+                            
+                       
+                        "
+" LAWRENCE, TYRA
+                     "," 19
+                     ","
+						 Philadelphia, PA 19144
+                         
+                ",MC-51-CR-0022543-2021," 12/14/2021 1:00:00 AM
+                "," Poss Instrument Of Crime W/Int
+                "," 
+                Nitti, Danielle G.",	Posted, 12/14/2021 2:05:10 AM, Unsecured," $5,000.00"," $0.00
+                            
+                       
+                        "
+" Robinson, Carolyn
+                     "," 59
+                     ","
+						 Philadelphia, PA 
+                         
+                ",MC-51-CR-0022544-2021," 12/14/2021 1:05:00 AM
+                "," Burglary - Overnight Accommodations; Person Present, Bodily Injury Crime
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 2:10:07 AM, Unsecured," $25,000.00"," $0.00
+                            
+                       
+                        "
+" CUTRERA, NICHOLAS
+                     "," 31
+                     ","
+						 Philadelphia, PA 19124
+                         
+                ",MC-51-CR-0022545-2021," 12/14/2021 1:09:00 AM
+                "," Retail Theft-Take Mdse
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 2:10:10 AM, ROR, $0.00," $0.00
+                            
+                       
+                        "
+" Derricks, Mathew
+                     "," 46
                      ","
 						 Philadelphia, PA 19140
                          
-                ",MC-51-CR-0022132-2021," 12/6/2021 9:19:00 PM
-                "," Contraband/Controlled Substance
+                ",MC-51-CR-0022548-2021," 12/14/2021 1:28:00 AM
+                "," Contempt For Violation of Order or Agreement
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 10:21:06 PM, Unsecured," $75,000.00"," $0.00
+                
+				None",	Posted, 12/14/2021 2:30:07 AM, Unsecured," $25,000.00"," $0.00
                             
                        
                         "
-" Villar-Reyes, Dewi
-                     "," 28
+" Tucker, Kyheem
+                     "," 19
                      ","
-						 Philadelphia, PA 19132
+						 Philadelphia, PA 19131
                          
-                ",MC-51-CR-0022123-2021," 12/6/2021 9:43:00 PM
+                ",MC-51-CR-0022549-2021," 12/14/2021 1:36:00 AM
                 "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 10:56:07 PM, Unsecured," $75,000.00"," $0.00
+                Defender Association of Philadelphia",	Posted, 12/14/2021 2:35:07 AM, Unsecured," $25,000.00"," $0.00
                             
                        
                         "
-" Baez, Idalisse
-                     "," 48
+" Hernandez, Josue
+                     "," 30
                      ","
-						 Philadelphia, PA 19101
+						 Philadelphia, PA 19145
                          
-                ",MC-51-CR-0022118-2021," 12/6/2021 9:53:00 PM
+                ",MC-51-CR-0022546-2021," 12/14/2021 1:40:00 AM
+                "," Strangulation - Applying Pressure to Throat or Neck
+                "," 
+                Defender Association of Philadelphia",	Set, 12/14/2021 2:40:06 AM, Monetary," $35,000.00"," $0.00
+                            
+                       
+                        "
+" Brunson, Ameen
+                     "," 29
+                     ","
+						 Philadelphia, PA 19145
+                         
+                ",MC-51-CR-0022547-2021," 12/14/2021 1:52:00 AM
                 "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/6/2021 10:56:06 PM, Monetary," $10,000.00"," ($1,000.00)
+                Defender Association of Philadelphia",	Set, 12/14/2021 2:55:08 AM, Monetary," $15,000.00"," $0.00
+                            
+                       
+                        "
+" White, Kyle
+                     "," 35
+                     ","
+						 Philadelphia, PA 19141
+                         
+                ",MC-51-CR-0022554-2021," 12/14/2021 4:40:00 AM
+                "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
+                "," 
+                Defender Association of Philadelphia",	Set, 12/14/2021 5:40:08 AM, Monetary," $200,000.00"," $0.00
+                            
+                       
+                        "
+" Little, Daishon
+                     "," 21
+                     ","
+						 Philadelphia, PA 19142
+                         
+                ",MC-51-CR-0022553-2021," 12/14/2021 4:46:00 AM
+                "," Criminal Attempt - Theft By Unlaw Taking-Movable Prop
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 8:35:07 AM, ROR, $0.00," $0.00
+                            
+                       
+                        "
+" MOORE, SHERNEV
+                     "," 32
+                     ","
+						 Philadelphia, PA 19131
+                         
+                ",MC-51-CR-0022551-2021," 12/14/2021 4:53:00 AM
+                "," Contempt For Violation of Order or Agreement
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 8:35:09 AM, ROR, $0.00," $0.00
+                            
+                       
+                        "
+" Moore, Michael
+                     "," 36
+                     ","
+						 Philadelphia, PA 19121
+                         
+                ",MC-51-CR-0022552-2021," 12/14/2021 5:04:00 AM
+                "," Crim Tres-Break Into Structure
+                "," 
+                Defender Association of Philadelphia",	Set, 12/14/2021 8:35:10 AM, Monetary," $35,000.00"," $0.00
+                            
+                       
+                        "
+" Ramirez, Pablo A.
+                     "," 35
+                     ","
+						 Philadelphia, PA 19120
+                         
+                ",MC-51-CR-0022550-2021," 12/14/2021 5:29:00 AM
+                "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
+                "," 
+                Defender Association of Philadelphia",	Set, 12/14/2021 8:35:13 AM, Monetary," $500,000.00"," $0.00
+                            
+                       
+                        "
+" Birckett, Nicole
+                     "," 37
+                     ","
+						 Philadelphia, PA 19145
+                         
+                ",MC-51-CR-0022555-2021," 12/14/2021 8:42:00 AM
+                "," Poss Instrument Of Crime W/Int
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 9:45:05 AM, Unsecured," $25,000.00"," $0.00
+                            
+                       
+                        "
+" Mobley, Rashana
+                     "," 35
+                     ","
+						 Mt Holly, NJ 08060
+                         
+                ",MC-51-CR-0022556-2021," 12/14/2021 8:50:00 AM
+                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
+                "," 
+                Defender Association of Philadelphia",	Posted, 12/14/2021 9:55:09 AM, Monetary," $10,000.00"," ($1,000.00)
                             
                        
                         "
@@ -2963,114 +2948,6 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                             
                        
                         "
-" Saxton, Uniqua
-                     "," 29
-                     ","
-						 Philadelphia, PA 19143
-                         
-                ",MC-51-CR-0022139-2021," 12/7/2021 12:43:00 AM
-                "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/7/2021 1:46:06 AM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Rogers, John
-                     "," 55
-                     ","
-						 Philadelphia, PA 19139
-                         
-                ",MC-51-CR-0022140-2021," 12/7/2021 12:46:00 AM
-                "," Theft By Unlaw Taking-Movable Prop
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/7/2021 1:46:07 AM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Zimnicki, Beverly M.
-                     "," 44
-                     ","
-						 Pennsauken, NJ 08109
-                         
-                ",MC-51-CR-0022146-2021," 12/7/2021 12:50:00 AM
-                "," Theft By Unlaw Taking-Movable Prop
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/7/2021 1:51:06 AM, Unsecured," $10,000.00"," $0.00
-                            
-                       
-                        "
-" Carmona, Elias
-                     "," 26
-                     ","
-						 Philadelphia, PA 19134
-                         
-                ",MC-51-CR-0022141-2021," 12/7/2021 12:57:00 AM
-                "," Arrest Prior To Requisition
-                "," 
-                Defender Association of Philadelphia",	Set, 12/7/2021 2:01:06 AM, Monetary," $10,000.00"," $0.00
-                            
-                       
-                        "
-" Mathas, Jaqwan S.
-                     "," 23
-                     ","
-						 Philadelphia, PA 19130
-                         
-                ",MC-51-CR-0022142-2021," 12/7/2021 1:04:00 AM
-                "," Terroristic Threats W/ Int To Terrorize Another
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/7/2021 2:11:06 AM, Unsecured," $25,000.00"," $0.00
-                            
-                       
-                        "
-" Rivera, Miguel
-                     "," 28
-                     ","
-						 Philadelphia, PA 19140
-                         
-                ",MC-51-CR-0022143-2021," 12/7/2021 1:10:00 AM
-                "," Theft By Unlaw Taking-Movable Prop
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/7/2021 2:11:07 AM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" Willis, Omar S.
-                     "," 31
-                     ","
-						 Darby, PA 19023
-                         
-                ",MC-51-CR-0022144-2021," 12/7/2021 1:14:00 AM
-                "," Burglary - Not Adapted for Overnight Accommodation, No Person Present
-                "," 
-                Birley, Kevin Thomas",	Posted, 12/7/2021 2:16:05 AM, Unsecured," $15,000.00"," $0.00
-                            
-                       
-                        "
-" Bonner, Zymir
-                     "," 18
-                     ","
-						 Philadelphia, PA 19121
-                         
-                ",MC-51-CR-0022145-2021," 12/7/2021 1:21:00 AM
-                "," Robbery-Inflict Serious Bodily Injury
-                "," 
-                Defender Association of Philadelphia",	Set, 12/7/2021 2:26:13 AM, Monetary," $200,000.00"," $0.00
-                            
-                       
-                        "
-" Robinson, Quyan
-                     "," 20
-                     ","
-						 Philadelphia, PA 19121
-                         
-                ",MC-51-CR-0022147-2021," 12/7/2021 2:39:00 AM
-                "," Murder
-                "," 
-                Mischak, David B.",	Denied, 12/7/2021 3:46:08 AM, $0.00," $0.00
-                            
-                       
-                        ",
 " Robinson, Quyan
                      "," 20
                      ","
@@ -3128,18 +3005,6 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 "," DUI: Gen Imp/Inc of Driving Safely - 1st Off
                 "," 
                 Defender Association of Philadelphia",	Posted, 12/7/2021 6:16:06 PM, ROR, $0.00," $0.00
-                            
-                       
-                        "
-" King, Marquita
-                     "," 26
-                     ","
-						 Philadelphia, PA 19104
-                         
-                ",MC-51-CR-0022180-2021," 12/7/2021 5:24:00 PM
-                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
-                "," 
-                Link, Robert Patrick",	Posted, 12/7/2021 7:11:09 PM, Unsecured," $75,000.00"," $0.00
                             
                        
                         "
@@ -3384,18 +3249,6 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                             
                        
                         "
-" Disanto, Margaret
-                     "," 57
-                     ","
-						 Philadelphia, PA 19143
-                         
-                ",MC-51-CR-0022154-2021," 12/7/2021 8:51:00 AM
-                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
-                "," 
-                Dennis, Charles E.",	Posted, 12/7/2021 9:51:07 AM, Unsecured," $50,000.00"," $0.00
-                            
-                       
-                        "
 " Alburg, Chidique
                      "," 33
                      ","
@@ -3429,18 +3282,6 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 "," DUI: Gen Imp/Inc of Driving Safely - 1st Off
                 "," 
                 Defender Association of Philadelphia",	Posted, 12/7/2021 10:01:11 AM, Monetary," $10,000.00"," ($1,000.00)
-                            
-                       
-                        "
-" Leavy, Crystal
-                     "," 34
-                     ","
-						 Philadelphia, PA 19144
-                         
-                ",MC-51-CR-0022158-2021," 12/7/2021 9:04:00 AM
-                "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
-                "," 
-                Defender Association of Philadelphia",	Posted, 12/7/2021 10:06:07 AM, Monetary," $20,000.00"," ($2,000.00)
                             
                        
                         "
@@ -3550,7 +3391,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022186-2021," 12/7/2021 9:58:00 PM
                 "," Accidents Involving Death Or Personal Injury
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/7/2021 11:16:07 PM, Monetary," $125,000.00"," ($12,500.00)
+                Coard, Michael",	Posted, 12/7/2021 11:16:07 PM, Monetary," $125,000.00"," ($12,500.00)
                             
                        
                         "
@@ -3610,7 +3451,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022235-2021," 12/8/2021 12:32:00 PM
                 "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
                 "," 
-                Goodman, Leon Dominic",	Set, 12/8/2021 1:35:07 PM, Monetary," $150,000.00"," $0.00
+                Goodman, Leon Dominic",	Set, 12/14/2021 10:41:00 AM, Monetary," $100,000.00"," $0.00
                             
                        
                         "
@@ -3622,7 +3463,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022190-2021," 12/8/2021 12:45:00 AM
                 "," Burglary - Overnight Accommodations; Person Present, Bodily Injury Crime
                 "," 
-                Defender Association of Philadelphia",	Set, 12/8/2021 1:51:09 AM, Monetary," $75,000.00"," $0.00
+                Defender Association of Philadelphia",	Posted, 12/14/2021 12:54:00 PM, Unsecured," $75,000.00"," $0.00
                             
                        
                         "
@@ -3647,7 +3488,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022236-2021," 12/8/2021 12:53:00 PM
                 "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
                 "," 
-                Defender Association of Philadelphia",	Set, 12/8/2021 1:55:05 PM, Monetary," $150,000.00"," $0.00
+                Defender Association of Philadelphia",	Posted, 12/14/2021 10:18:00 AM, Unsecured," $150,000.00"," $0.00
                             
                        
                         "
@@ -3731,7 +3572,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022239-2021," 12/8/2021 1:09:00 PM
                 "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
                 "," 
-                Defender Association of Philadelphia",	Set, 12/8/2021 2:10:06 PM, Monetary," $150,000.00"," $0.00
+                Defender Association of Philadelphia",	Set, 12/14/2021 9:10:00 AM, Monetary, $300.00," $0.00
                             
                        
                         "
@@ -3803,7 +3644,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022241-2021," 12/8/2021 1:24:00 PM
                 "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
                 "," 
-                Defender Association of Philadelphia",	Set, 12/8/2021 2:25:07 PM, Monetary," $30,000.00"," $0.00
+                Defender Association of Philadelphia",	Posted, 12/14/2021 10:24:00 AM, Unsecured," $30,000.00"," $0.00
                             
                        
                         "
@@ -3923,7 +3764,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022208-2021," 12/8/2021 4:08:00 AM
                 "," Robbery-Inflict Serious Bodily Injury
                 "," 
-                Defender Association of Philadelphia",	Set, 12/8/2021 5:10:03 AM, Monetary," $200,000.00"," $0.00
+                Defender Association of Philadelphia",	Set, 12/14/2021 9:54:00 AM, Monetary," $100,000.00"," $0.00
                             
                        
                         "
@@ -3947,7 +3788,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022210-2021," 12/8/2021 4:17:00 AM
                 "," Aggravated Assault - Attempts to cause SBI or causes injury with extreme indifference
                 "," 
-                Defender Association of Philadelphia",	Set, 12/8/2021 5:20:02 AM, Monetary," $50,000.00"," $0.00
+                Defender Association of Philadelphia",	Set, 12/14/2021 9:05:00 AM, Monetary," $250,000.00"," $0.00
                             
                        
                         "
@@ -4091,7 +3932,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022249-2021," 12/8/2021 6:18:00 PM
                 "," Poss Instrument Of Crime W/Int
                 "," 
-                Defender Association of Philadelphia",	Set, 12/8/2021 7:20:06 PM, Monetary," $60,000.00"," $0.00
+                Defender Association of Philadelphia",	Set, 12/14/2021 9:16:00 AM, Monetary," $30,000.00"," $0.00
                             
                        
                         "
@@ -4344,7 +4185,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022228-2021," 12/8/2021 9:22:00 AM
                 "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
                 "," 
-                Defender Association of Philadelphia",	Set, 12/8/2021 10:25:04 AM, Monetary," $75,000.00"," $0.00
+                Defender Association of Philadelphia",	Set, 12/14/2021 9:34:00 AM, Monetary," $25,000.00"," $0.00
                             
                        
                         "
@@ -4356,7 +4197,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022264-2021," 12/8/2021 9:26:00 PM
                 "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
                 "," 
-                Tinari, Nino V.",	Set, 12/8/2021 10:30:07 PM, Monetary," $25,000.00"," $0.00
+                Tinari, Nino V.",	Posted, 12/14/2021 2:00:00 PM, Monetary," $25,000.00"," ($2,500.00)
                             
                        
                         "
@@ -4372,7 +4213,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                             
                        
                         "
-" Sanford, Hassan
+" Sanford, Hassan Nasair
                      "," 31
                      ","
 						 Philadelphia, PA 19132
@@ -4692,7 +4533,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022283-2021," 12/9/2021 3:46:00 AM
                 "," DUI: Gen Imp/Inc of Driving Safely - 1st Off
                 "," 
-                Defender Association of Philadelphia",	Posted, 12/9/2021 4:50:10 AM, ROR, $0.00," $0.00
+                Cameron, Angelo Leroy",	Posted, 12/9/2021 4:50:10 AM, ROR, $0.00," $0.00
                             
                        
                         "
@@ -4898,7 +4739,7 @@ Defendant Name,Age,Address,Docket Number,Filing Date,Charge,Represented,Bail Sta
                 ",MC-51-CR-0022287-2021," 12/9/2021 8:41:00 AM
                 "," Manufacture, Delivery, or Possession With Intent to Manufacture or Deliver
                 "," 
-                Defender Association of Philadelphia",	Set, 12/9/2021 9:45:09 AM, Monetary," $300,000.00"," $0.00
+                Mincarelli, Louis Anthony",	Set, 12/9/2021 9:45:09 AM, Monetary," $300,000.00"," $0.00
                             
                        
                         "
