@@ -22,6 +22,9 @@ def update():
     scraper = NewFilingsScraper()
     data = scraper().to_pandas()
 
+    # Format date
+    data["filing_date"] = pd.to_datetime(data["filing_date"])
+
     # Save latest dat
     SORT_COLUMNS = ["filing_date", "docket_number", "defendant_name"]
     data.sort_values(SORT_COLUMNS).to_csv(
@@ -34,7 +37,7 @@ def update():
 
     # Merge together
     if filename.exists():
-        data = pd.concat([data, pd.read_csv(filename)])
+        data = pd.concat([data, pd.read_csv(filename, parse_dates=["filing_date"])])
 
     # Remove duplicates and save
     original_length = len(data)
