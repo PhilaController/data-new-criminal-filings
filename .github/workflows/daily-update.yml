@@ -9,29 +9,32 @@ on:
       - .github/workflows/daily-update.yml
 
 jobs:
-  scheduled:
+  daily-update:
+    name: Daily Data Update
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
           persist-credentials: false
           fetch-depth: 0
-      - uses: conda-incubator/setup-miniconda@v2
+      - uses: actions/setup-python@v2
         with:
-          auto-update-conda: true
-          python-version: 3.7
+          python-version: "3.8"
+      - name: Run image
+        uses: abatilo/actions-poetry@v2.0.0
+        with:
+          poetry-version: "1.1.11"
       - name: Download files
-        shell: bash -l {0}
         run: |
-          pip install -r requirements.txt
-          python scripts/process.py
+          poetry install
+          git pull origin main
+          poetry run new-criminal-filings update
       - name: Commit files
         continue-on-error: true
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/
-          git commit -m "Add daily download changes"
+          git commit -a -m "Add daily download changes"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
