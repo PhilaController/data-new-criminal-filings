@@ -62,61 +62,56 @@ def update():
     """Scrape the latest data and update the local data files."""
     # Initialize the scraper and get the data
     scraper = NewFilingsScraper()
-    data = scraper().to_pandas()
-    filing_columns = data.columns.tolist()  # Save scraped columns
+    new_data = scraper().to_pandas()  # Save scraped columns
 
     # Format date
-    data["filing_date"] = pd.to_datetime(data["filing_date"])
+    new_data["filing_date"] = pd.to_datetime(new_data["filing_date"])
 
     # Save latest data
     SORT_COLUMNS = ["filing_date", "docket_number", "defendant_name"]
-    data.sort_values(SORT_COLUMNS).to_csv(
+    new_data.sort_values(SORT_COLUMNS).to_csv(
         DATA_DIR / "raw" / "latest-data.csv", index=False
     )
 
-    # Save combined database
-    path = DATA_DIR / "processed" / "daily-data-historical.csv"
-    filename = Path(path)
-
+    # Make combined database
+    filename = DATA_DIR / "processed" / "daily-data-historical.csv"
+    
     # Merge together
     if filename.exists():
-        data = pd.concat([data, pd.read_csv(filename, parse_dates=["filing_date"])])
+        data = pd.concat([new_data, pd.read_csv(filename, parse_dates=["filing_date"])])
+    else:
+        data = new_data.copy()
 
-    # Remove duplicates based on original columns
+    # Remove duplicates
     original_length = len(data)
-    data = data.drop_duplicates(subset=filing_columns)
+    data = data.drop_duplicates()
     logger.info(f"Removed {original_length - len(data)} duplicate filings")
 
-    # Get missing portal results
-    missing = data["dc_number"].isnull()
+    # Save
+    data = data.sort_values(SORT_COLUMNS)
+    data.to_csv(filename, index=False)
+
+    # Load existing portal results
+    filename = DATA_DIR / "processed" / "portal-results-historical.csv"
+    existing_portal_results = pd.read_csv(filename)
+
+    # Get data without any portal results
+    missing = ~data["docket_number"].isin(existing_portal_results["docket_number"])
     missing_dockets = data.loc[missing, "docket_number"].drop_duplicates()
 
     # Get the portal results
     logger.info(f"Scraping info for {len(missing_dockets)} missing dockets")
-    portal_results = get_portal_results(missing_dockets)
+    new_portal_results = get_portal_results(missing_dockets)
     logger.info("...done")
 
     # Combine with past portal results
-    portal_columns = portal_results.columns.tolist()
     portal_results = pd.concat(
         [
-            data[portal_columns].dropna().drop_duplicates(subset=["docket_number"]),
-            portal_results,
+            existing_portal_results,
+            new_portal_results,
         ]
     )
     assert portal_results["docket_number"].duplicated().sum() == 0
 
-    # Merge
-    data = data[filing_columns]
-
-    # Merge together
-    out = data.merge(
-        portal_results,
-        on="docket_number",
-        validate="m:1",
-        how="left",
-    )
-
-    # Save
-    out = out.sort_values(SORT_COLUMNS)
-    out.to_csv(filename, index=False)
+    # Save portal results
+    portal_results.to_csv(filename, index=False)
