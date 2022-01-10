@@ -12,6 +12,7 @@ loguru = "^0.5.3"
 beautifulsoup4 = "^4.10.0"
 click = "^8.0.3"
 phl-courts-scraper = {git = "https://github.com/PhilaController/phl-courts-scraper.git", rev = "master"}
+phl-courts-scraper-batch = {git = "https://github.com/PhilaController/phl-courts-scraper-batch.git", rev = "main"}
 
 [tool.poetry.dev-dependencies]
 jupyterlab = "^3.2.5"
