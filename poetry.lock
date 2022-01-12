@@ -168,11 +168,11 @@ pywin32 = ["pywin32 (>=227)"]
 
 [[package]]
 name = "atpublic"
-version = "2.3"
-description = "public -- @public for populating __all__"
+version = "3.0.1"
+description = "Keep all y'all's __all__'s in sync"
 category = "main"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.7"
 
 [[package]]
 name = "attrs"
@@ -612,15 +612,15 @@ six = ">=1.12,<2.0"
 
 [[package]]
 name = "flufl.lock"
-version = "6.0"
-description = "NFS-safe file locking with timeouts for POSIX and Windows."
+version = "7.0"
+description = "NFS-safe file locking with timeouts for POSIX and Windows"
 category = "main"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.7"
 
 [package.dependencies]
-atpublic = "*"
-psutil = "*"
+atpublic = ">=2.3"
+psutil = ">=5.9.0"
 
 [[package]]
 name = "frozenlist"
@@ -707,7 +707,7 @@ smmap = ">=3.0.1,<6"
 
 [[package]]
 name = "gitpython"
-version = "3.1.25"
+version = "3.1.26"
 description = "GitPython is a python library used to interact with Git repositories"
 category = "main"
 optional = false
@@ -1070,7 +1070,7 @@ dev = ["codecov (>=2.0.15)", "colorama (>=0.3.4)", "flake8 (>=3.7.7)", "tox (>=3
 
 [[package]]
 name = "mailchecker"
-version = "4.1.7"
+version = "4.1.8"
 description = "Cross-language email validation. Backed by a database of thousands throwable email providers."
 category = "main"
 optional = false
@@ -1466,7 +1466,7 @@ resolved_reference = "d70ab9866cd0c07e5f33f8743557ef5b724f39d5"
 
 [[package]]
 name = "phonenumbers"
-version = "8.12.40"
+version = "8.12.41"
 description = "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers."
 category = "main"
 optional = false
@@ -1801,7 +1801,7 @@ tornado = ">=6.1.0"
 
 [[package]]
 name = "rich"
-version = "10.16.2"
+version = "11.0.0"
 description = "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal"
 category = "main"
 optional = false
@@ -2447,7 +2447,8 @@ asyncssh = [
     {file = "asyncssh-2.8.1.tar.gz", hash = "sha256:0648eba58d72653755f28e26c9bd83147d9652c1f2f5e87fbf5a87d7f8fbf83a"},
 ]
 atpublic = [
-    {file = "atpublic-2.3.tar.gz", hash = "sha256:d6b9167fc3e09a2de2d2adcfc9a1b48d84eab70753c97de3800362e1703e3367"},
+    {file = "atpublic-3.0.1-py3-none-any.whl", hash = "sha256:3deaa4aed146bf4adf5a8e0f9e4f0096774169a7157621753aa408d9a180b8b5"},
+    {file = "atpublic-3.0.1.tar.gz", hash = "sha256:bb072b50e6484490404e5cb4034e782aaa339fdd6ac36434e53c10791aef18bf"},
 ]
 attrs = [
     {file = "attrs-21.4.0-py2.py3-none-any.whl", hash = "sha256:2d27e3784d7a565d36ab851fe94887c5eccd6a463168875832a1be79c82828b4"},
@@ -2685,7 +2686,8 @@ flatten-dict = [
     {file = "flatten_dict-0.4.2-py2.py3-none-any.whl", hash = "sha256:7e245b20c4c718981212210eec4284a330c9f713e632e98765560e05421e48ad"},
 ]
 "flufl.lock" = [
-    {file = "flufl.lock-6.0.tar.gz", hash = "sha256:fc748ee609ec864b4838ef649dbd1170fa79deb0c213c2fd51151bee6a7fc242"},
+    {file = "flufl.lock-7.0-py3-none-any.whl", hash = "sha256:4731a98cf881cefc40c418f961f0238124e984f7c0f8d2db30afb017fbd26e05"},
+    {file = "flufl.lock-7.0.tar.gz", hash = "sha256:1415f7d19d8dd96a58242e0efb90ce3cb1877fb545074ad8c1cae4cb7191fe01"},
 ]
 frozenlist = [
     {file = "frozenlist-1.2.0-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:977a1438d0e0d96573fd679d291a1542097ea9f4918a8b6494b06610dfeefbf9"},
@@ -2780,8 +2782,8 @@ gitdb = [
     {file = "gitdb-4.0.9.tar.gz", hash = "sha256:bac2fd45c0a1c9cf619e63a90d62bdc63892ef92387424b855792a6cabe789aa"},
 ]
 gitpython = [
-    {file = "GitPython-3.1.25-py3-none-any.whl", hash = "sha256:4f8b0e51713642b83f1eb10136d36a7f2c5278d188c5ae82b144cb1f4e848f0c"},
-    {file = "GitPython-3.1.25.tar.gz", hash = "sha256:b923e8952c2fe0d70b129fddd8511acc90b3070c8dddb20d86ca9911a5d0c248"},
+    {file = "GitPython-3.1.26-py3-none-any.whl", hash = "sha256:26ac35c212d1f7b16036361ca5cff3ec66e11753a0d677fb6c48fa4e1a9dd8d6"},
+    {file = "GitPython-3.1.26.tar.gz", hash = "sha256:fc8868f63a2e6d268fb25f481995ba185a85a66fcad126f039323ff6635669ee"},
 ]
 grandalf = [
     {file = "grandalf-0.6-py2-none-any.whl", hash = "sha256:d671fdfa5310f2639538b6c858c4b1aef7755535ccfcb9c1cdf0d29171326add"},
@@ -2878,7 +2880,7 @@ loguru = [
     {file = "loguru-0.5.3.tar.gz", hash = "sha256:b28e72ac7a98be3d28ad28570299a393dfcd32e5e3f6a353dec94675767b6319"},
 ]
 mailchecker = [
-    {file = "mailchecker-4.1.7.tar.gz", hash = "sha256:3b404bb6e0c7d20af87bb1931491b9e4779c48ec88b27b4e9927fd9bc984bf0e"},
+    {file = "mailchecker-4.1.8.tar.gz", hash = "sha256:44b66e9e3457ee596329097eb09fe9cbc6d347f619b037b04c96a8f4806e2db1"},
 ]
 markupsafe = [
     {file = "MarkupSafe-2.0.1-cp36-cp36m-macosx_10_9_x86_64.whl", hash = "sha256:f9081981fe268bd86831e5c75f7de206ef275defcb82bc70740ae6dc507aee51"},
@@ -3134,8 +3136,8 @@ pexpect = [
 phl-courts-scraper = []
 phl-courts-scraper-batch = []
 phonenumbers = [
-    {file = "phonenumbers-8.12.40-py2.py3-none-any.whl", hash = "sha256:fc105364dfee2bdb5be9116071e877b66fc7afbff6491c1b739fe7cff9a4c7bf"},
-    {file = "phonenumbers-8.12.40.tar.gz", hash = "sha256:00f2955a456b458f9b6ab0d24329049c3e7358c44dfc1979fe4908ced40f1eb8"},
+    {file = "phonenumbers-8.12.41-py2.py3-none-any.whl", hash = "sha256:2b8c7a7ffac4fe2be3d8bf20dad316ea1292f27422c9e18b1f3cd16734d4a5ed"},
+    {file = "phonenumbers-8.12.41.tar.gz", hash = "sha256:f477da623a51cba084567d6a67b1882a8aaaf3e7beadad655f8613a8f887ac62"},
 ]
 pickleshare = [
     {file = "pickleshare-0.7.5-py2.py3-none-any.whl", hash = "sha256:9649af414d74d4df115d5d718f82acb59c9d418196b7b4290ed47a12ce62df56"},
@@ -3491,8 +3493,8 @@ retrolab = [
     {file = "retrolab-0.3.14.tar.gz", hash = "sha256:a84766d79a9e5ad7321df4ef70d4bdc0d0118526fc9829229983111a7930307f"},
 ]
 rich = [
-    {file = "rich-10.16.2-py3-none-any.whl", hash = "sha256:c59d73bd804c90f747c8d7b1d023b88f2a9ac2454224a4aeaf959b21eeb42d03"},
-    {file = "rich-10.16.2.tar.gz", hash = "sha256:720974689960e06c2efdb54327f8bf0cdbdf4eae4ad73b6c94213cad405c371b"},
+    {file = "rich-11.0.0-py3-none-any.whl", hash = "sha256:d7a8086aa1fa7e817e3bba544eee4fd82047ef59036313147759c11475f0dafd"},
+    {file = "rich-11.0.0.tar.gz", hash = "sha256:c32a8340b21c75931f157466fefe81ae10b92c36a5ea34524dff3767238774a4"},
 ]
 "ruamel.yaml" = [
     {file = "ruamel.yaml-0.17.20-py3-none-any.whl", hash = "sha256:810eef9c46523a3f77479c66267a4708255ebe806a2d540078408c2227f011af"},
