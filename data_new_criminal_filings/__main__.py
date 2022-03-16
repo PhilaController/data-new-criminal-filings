@@ -47,11 +47,12 @@ def get_portal_results(dockets, ntasks=20, sleep=2):
         data = json.loads(ff.read())
 
     # Get the portal results
-    portal_results = (
-        pd.DataFrame([dd for l in data for dd in l if len(l)])
-        .drop_duplicates()
-        .drop(labels=["filing_date"], axis=1)
-    )
+    portal_results = pd.DataFrame(
+        [dd for l in data for dd in l if len(l)]
+    ).drop_duplicates()
+
+    if len(portal_results):
+        portal_results = portal_results.drop(labels=["filing_date"], axis=1)
 
     return portal_results
 
