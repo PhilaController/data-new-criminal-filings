@@ -1,4 +1,4 @@
-name: Daily Data Update
+name: Daily Update
 
 on:
   schedule:
