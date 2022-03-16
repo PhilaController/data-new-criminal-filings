@@ -1,5 +1,4 @@
 import json
-from pathlib import Path
 
 import click
 import pandas as pd
@@ -58,7 +57,8 @@ def get_portal_results(dockets, ntasks=20, sleep=2):
 
 
 @cli.command()
-def update():
+@click.option("--ntasks", type=int, default=2)
+def update(ntasks=2):
     """Scrape the latest data and update the local data files."""
     # Initialize the scraper and get the data
     scraper = NewFilingsScraper()
@@ -75,7 +75,7 @@ def update():
 
     # Make combined database
     filename = DATA_DIR / "processed" / "daily-data-historical.csv"
-    
+
     # Merge together
     if filename.exists():
         data = pd.concat([new_data, pd.read_csv(filename, parse_dates=["filing_date"])])
@@ -101,7 +101,7 @@ def update():
 
     # Get the portal results
     logger.info(f"Scraping info for {len(missing_dockets)} missing dockets")
-    new_portal_results = get_portal_results(missing_dockets)
+    new_portal_results = get_portal_results(missing_dockets, ntasks=ntasks)
     logger.info("...done")
 
     # Combine with past portal results

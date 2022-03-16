@@ -28,7 +28,7 @@ jobs:
         run: |
           poetry install
           git pull origin main
-          poetry run new-criminal-filings update
+          poetry run new-criminal-filings update --ntasks 2
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
