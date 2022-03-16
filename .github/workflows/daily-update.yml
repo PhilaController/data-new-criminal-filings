@@ -10,7 +10,7 @@ on:
 
 jobs:
   daily-update:
-    name: Daily Data Update
+    name: Daily Update
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
