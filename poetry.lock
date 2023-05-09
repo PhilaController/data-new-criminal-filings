@@ -2273,7 +2273,7 @@ simplejson = "^3.17.5"
 type = "git"
 url = "https://github.com/PhilaController/phl-courts-scraper-batch.git"
 reference = "main"
-resolved_reference = "e9dc4bd18fd4919c98131cfaff656b291cfa5552"
+resolved_reference = "55d1fe8388f7cb6ec0b98fd93bd9876c40557aa8"
 
 [[package]]
 name = "phonenumbers"
